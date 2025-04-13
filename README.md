@@ -19,7 +19,8 @@ python pypdf.py
 # Scan a specific folder
 python pypdf.py --folder "C:/Invoices"
 ```
-##🧠 Fields Extracted
+
+## 🧠 Fields Extracted
 - Invoice No.
 - Date of Issue of Invoice
 - Tax Amount in Words
@@ -27,12 +28,12 @@ python pypdf.py --folder "C:/Invoices"
 - Vehicle No./Wagon No.
 - Invoice Amount in Words
 
-##📦 Requirements
+## 📦 Requirements
 - Python 3.6+
 - PyPDF2
 
 ```bash
 pip install PyPDF2
 ```
-##🤝 Contributing
+## 🤝 Contributing
 See CONTRIBUTING.md.
